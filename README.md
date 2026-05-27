@@ -1,9 +1,5 @@
-# blue-hat-comandos
-Somente um repositório para eu salvar meus comandos e deixar registrado o que eu já estudei sobre o Linux especificamente fedora.
-
 # Guia de Comandos Essenciais para Fedora Linux
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Fedora](https://img.shields.io/badge/Fedora-37-blue?logo=fedora)](https://getfedora.org/)
 
 Um repositório colaborativo com os comandos mais úteis e essenciais para quem utiliza o Fedora Linux, seja você iniciante ou usuário avançado.
@@ -154,15 +150,12 @@ Para ganhar produtividade no dia a dia.
 
 Sinta-se à vontade para abrir uma *Issue* ou um *Pull Request* se quiser adicionar mais comandos, corrigir alguma informação ou sugerir uma melhoria na organização.
 
-1.  Faça um *Fork* do projeto.
-2.  Crie uma branch para sua feature (`git checkout -b feature/NovoComando`).
-3.  Commit suas mudanças (`git commit -am 'Adiciona comando XYZ'`).
-4.  Push para a branch (`git push origin feature/NovoComando`).
-5.  Abra um novo *Pull Request*.
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+1. Faça um *Fork* do projeto.
+2. Crie uma branch para sua feature (`git checkout -b feature/NovoComando`).
+3. Commit suas mudanças (`git commit -am 'Adiciona comando XYZ'`).
+4. Push para a branch (`git push origin feature/NovoComando`).
+5. Abra um novo *Pull Request*.
 
 ---
+
 ⭐ **Se este repositório te ajudou, não se esqueça de deixar uma estrela!** ⭐
